@@ -1,9 +1,7 @@
-#test{
-    background-color: aqua;
-}
 #title{
     text-align: center;
     color:blue;
+   
 }
 #color{
     color:red;
@@ -24,4 +22,29 @@ body{
 }
 hr{
    color:blue;  
+}
+#test{
+    padding-left: 20px; display:block
+}
+#indent{
+    margin-left:40px;
+}
+
+body{ 
+    font-size: 16px;
+
+}
+h1{
+    font-size:2em;
+}
+#heading{
+    color:blue;
+    background-color:yellow;
+    font-size: 2rem;
+    text-align: center;
+}
+a:active{
+    color:green;}
+a:hover{
+    color:red;
 }
