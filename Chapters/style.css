@@ -1,0 +1,27 @@
+#test{
+    background-color: aqua;
+}
+#title{
+    text-align: center;
+    color:blue;
+}
+#color{
+    color:red;
+    background-color: yellow;
+}
+#MI{
+    display: inline-block;
+    color:red;
+    background-color: yellow;
+}
+body{
+    line-height:1.5;
+}#sections{
+    line-height:1;
+}
+#blue{
+    color:blue;
+}
+hr{
+   color:blue;  
+}
