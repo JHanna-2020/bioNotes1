@@ -51,3 +51,18 @@ a:hover{
 #footer{
     align-items: right;
 }
+#orange{
+    color: darkorange;
+}
+#green{
+    color:green;
+}
+#purple{
+    color:purple;
+}
+#DGreen{
+    color: darkseagreen;
+}
+.bold{
+font-weight: bold;    
+}
